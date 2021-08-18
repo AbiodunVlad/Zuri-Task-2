@@ -1,0 +1,75 @@
+body {
+    background-color: #444444;
+}
+
+#navbar {
+    background-color: #333333;
+    height: 50px;
+    position: relative;
+    padding: 0.5px 0 0 0;
+}
+
+#go {
+    text-decoration: none;
+    margin: -8px 0 0 1080px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.para {
+    margin: 50px 200px 0 200px;
+    text-align: justify;
+    color: white;
+}
+
+.href {
+    color:rgba(0, 225, 255, 0.61);
+    text-decoration: none;
+}
+
+.img {
+    text-align: center;
+    margin: 70px 0 0 0;
+}
+
+.imgSize {
+    width: 120px;
+    height: 120px;
+}
+
+.icons {
+    margin: 500px 0 100px 500px;
+    
+}
+
+.fab {
+    font-size: 50px;
+    color:  #0072b1;
+    margin: 0px 0 0px 50px;
+}
+
+.fab:hover {
+    color: black;
+}
+
+.fas {
+    font-size: 50px;
+    margin: 0px 0 0px 50px;
+}
+
+.fas:hover {
+    color: black;
+}
+
+.fa-phone-square-alt {
+    color:  #0072b1;
+}
